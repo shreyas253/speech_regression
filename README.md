@@ -4,7 +4,7 @@ INTRODUCTION
 ------------
 The following is forms example code with random data for that performs trains regression models using Standard GMMs, Bayesian GMMs and feed-forward DNNs and models adaptation for the paper:
  
-Shreyas Seshadri, Lauri Juvela, Okko R√§s√§nen and Paavo Alku: "Speaking Style Conversion from Normal to Lombard Speech using Vocoder Features and Parallel Learning", submitted to IEEE TSALP.
+Shreyas Seshadri, Lauri Juvela, Okko Räsänen and Paavo Alku: "Speaking Style Conversion from Normal to Lombard Speech using Vocoder Features and Parallel Learning", submitted to IEEE TSALP.
 
 Please download the [Voicebox]( http://www.ee.ic.ac.uk/hp/staff/dmb/voicebox/voicebox.html) and [GMMbayes]( http://www.it.lut.fi/project/gmmbayes/downloads/src/gmmbayestb/) toolboxes and to the ./Mapping/SGMM/ folder
  
@@ -46,9 +46,9 @@ DNNs - Feedforward DNNs (see [5]). For Model adaptation the DNN is trained norma
  
 REFERENCES
 ----------
-[1] A. Kain and M. W. Macon. Spectral voice conversion for text-to-speech synthesis, in Proc. ICASSP, Seattle, USA, 1998, pp. 285‚Äì288.
+[1] A. Kain and M. W. Macon. Spectral voice conversion for text-to-speech synthesis, in Proc. ICASSP, Seattle, USA, 1998, pp. 285-288.
  
-[2] D. A. Reynolds, T. F. Quatieri, and R. B. Dunn. Speaker verification using adapted Gaussian mixture models, Digital signal processing, vol. 10, no. 1-3, pp. 19‚Äì41
+[2] D. A. Reynolds, T. F. Quatieri, and R. B. Dunn. Speaker verification using adapted Gaussian mixture models, Digital signal processing, vol. 10, no. 1-3, pp. 19-41
  
 [3] D. M. Blei and M. I. Jordan. Variational inference for Dirichlet process mixtures, Bayesian analysis, vol. 1, no. 1, pp. 121-144, 2006.
  
