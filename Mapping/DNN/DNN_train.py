@@ -66,7 +66,7 @@ dnnOpts =  x['dnnOpts']
 x = x['DNN_x']
 
 DNNmodel = trainining_DNN(X,Y,int(dnnOpts[0][0]),int(dnnOpts[0][1]),float(dnnOpts[0][2])) # train model
-savePath = modPath + '/DNN_model.mat'
+savePath = modPath + '/DNN_model.h5'
 DNNmodel.save(savePath)
 
 

@@ -108,7 +108,7 @@ Y_pred_noadap = y;
 DNN_X = X_adap;
 DNN_Y = Y_adap;
 DNN_x = X_test;
-oldModPath = [currPath '/tmpFiles/DNN_model.mat'];
+oldModPath = [currPath '/tmpFiles/DNN_model.h5'];
 save([currPath '/tmpFiles/pyTrain.mat'], 'DNN_X', 'DNN_Y', 'DNN_x', 'oldModPath');
 DNN_train_file = [currPath '/Mapping/DNN/DNN_train_cont.py'];
 tmpPath = [currPath '/tmpFiles/'];
