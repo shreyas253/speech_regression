@@ -4,7 +4,7 @@ INTRODUCTION
 ------------
 The following is forms example code with random data for that performs trains regression models using Standard GMMs, Bayesian GMMs and feed-forward DNNs and models adaptation for the paper:
  
-Shreyas Seshadri, Lauri Juvela, Okko Räsänen and Paavo Alku: "Speaking Style Conversion from Normal to Lombard Speech using Vocoder Features and Parallel Learning", submitted to IEEE TSALP.
+Shreyas Seshadri, Lauri Juvela, Okko Räsänen and Paavo Alku: "Vocal Effort Based Speaking Style Conversion Using Vocoder Features and Parallel Learning", IEEE Access, vol. 7, pp. 17 230–17 246, 2019. [OpenAccessLink](https://ieeexplore.ieee.org/abstract/document/8631106)
 
 Please download the [Voicebox]( http://www.ee.ic.ac.uk/hp/staff/dmb/voicebox/voicebox.html) and [GMMbayes]( http://www.it.lut.fi/project/gmmbayes/downloads/src/gmmbayestb/) toolboxes and to the [./Mapping/SGMM/](https://github.com/shreyas253/speech_regression/tree/master/Mapping/SGMM) folder
  
